@@ -1,0 +1,8 @@
+Nombre de las competiciones femeninas: 
+[FA Women's Super League, NWSL, Women's World Cup]
+ 
+Nombre de las competiciones que se realicen en Europa y sean internacionales: 
+[UEFA Euro]
+ 
+Nombre de las competiciones que se realicen en Europa y sean internacionales: 
+[Champions League, FA Women's Super League, FIFA World Cup, La Liga, NWSL, Premier League, UEFA Euro, Women's World Cup]
